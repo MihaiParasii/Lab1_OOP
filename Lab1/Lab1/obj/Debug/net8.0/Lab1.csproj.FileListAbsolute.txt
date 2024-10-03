@@ -1,0 +1,14 @@
+/Users/admin/Downloads/UTM/OOP/Lab1/Lab1/bin/Debug/net8.0/Lab1
+/Users/admin/Downloads/UTM/OOP/Lab1/Lab1/bin/Debug/net8.0/Lab1.deps.json
+/Users/admin/Downloads/UTM/OOP/Lab1/Lab1/bin/Debug/net8.0/Lab1.runtimeconfig.json
+/Users/admin/Downloads/UTM/OOP/Lab1/Lab1/bin/Debug/net8.0/Lab1.dll
+/Users/admin/Downloads/UTM/OOP/Lab1/Lab1/bin/Debug/net8.0/Lab1.pdb
+/Users/admin/Downloads/UTM/OOP/Lab1/Lab1/obj/Debug/net8.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Downloads/UTM/OOP/Lab1/Lab1/obj/Debug/net8.0/Lab1.AssemblyInfoInputs.cache
+/Users/admin/Downloads/UTM/OOP/Lab1/Lab1/obj/Debug/net8.0/Lab1.AssemblyInfo.cs
+/Users/admin/Downloads/UTM/OOP/Lab1/Lab1/obj/Debug/net8.0/Lab1.csproj.CoreCompileInputs.cache
+/Users/admin/Downloads/UTM/OOP/Lab1/Lab1/obj/Debug/net8.0/Lab1.dll
+/Users/admin/Downloads/UTM/OOP/Lab1/Lab1/obj/Debug/net8.0/refint/Lab1.dll
+/Users/admin/Downloads/UTM/OOP/Lab1/Lab1/obj/Debug/net8.0/Lab1.pdb
+/Users/admin/Downloads/UTM/OOP/Lab1/Lab1/obj/Debug/net8.0/Lab1.genruntimeconfig.cache
+/Users/admin/Downloads/UTM/OOP/Lab1/Lab1/obj/Debug/net8.0/ref/Lab1.dll
