@@ -1,0 +1,14 @@
+/Users/admin/Downloads/UTM/SEM3/OOP/Lab4/Lab4/bin/Debug/net8.0/Lab4
+/Users/admin/Downloads/UTM/SEM3/OOP/Lab4/Lab4/bin/Debug/net8.0/Lab4.deps.json
+/Users/admin/Downloads/UTM/SEM3/OOP/Lab4/Lab4/bin/Debug/net8.0/Lab4.runtimeconfig.json
+/Users/admin/Downloads/UTM/SEM3/OOP/Lab4/Lab4/bin/Debug/net8.0/Lab4.dll
+/Users/admin/Downloads/UTM/SEM3/OOP/Lab4/Lab4/bin/Debug/net8.0/Lab4.pdb
+/Users/admin/Downloads/UTM/SEM3/OOP/Lab4/Lab4/obj/Debug/net8.0/Lab4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Downloads/UTM/SEM3/OOP/Lab4/Lab4/obj/Debug/net8.0/Lab4.AssemblyInfoInputs.cache
+/Users/admin/Downloads/UTM/SEM3/OOP/Lab4/Lab4/obj/Debug/net8.0/Lab4.AssemblyInfo.cs
+/Users/admin/Downloads/UTM/SEM3/OOP/Lab4/Lab4/obj/Debug/net8.0/Lab4.csproj.CoreCompileInputs.cache
+/Users/admin/Downloads/UTM/SEM3/OOP/Lab4/Lab4/obj/Debug/net8.0/Lab4.dll
+/Users/admin/Downloads/UTM/SEM3/OOP/Lab4/Lab4/obj/Debug/net8.0/refint/Lab4.dll
+/Users/admin/Downloads/UTM/SEM3/OOP/Lab4/Lab4/obj/Debug/net8.0/Lab4.pdb
+/Users/admin/Downloads/UTM/SEM3/OOP/Lab4/Lab4/obj/Debug/net8.0/Lab4.genruntimeconfig.cache
+/Users/admin/Downloads/UTM/SEM3/OOP/Lab4/Lab4/obj/Debug/net8.0/ref/Lab4.dll
